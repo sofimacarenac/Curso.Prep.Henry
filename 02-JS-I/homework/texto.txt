@@ -1,0 +1,8 @@
+
+Variable: es una forma de guardar el valor de algo para volver a utilizarlo luego. 
+Strings: es una cadena de letras o palabras. 
+Funciones: es una operación que guardo para volver a utilizar varias veces. Tiene la misma propiedad que cualquier objeto. 
+Argumento: cuando se declara una función se le agrega una variable entre paréntesis, que se puede utilizar dentro de la misma función. 
+Return: Es la devolución de una operación.
+If: es la palabra clave que se utiliza para que se ejecute una operación u otra, marca un condicional.
+Valores booleanos: solo pueden ser dos, "true" o "false" para significar verdadero o falso, respectivamente como únicas dos opciones.    
