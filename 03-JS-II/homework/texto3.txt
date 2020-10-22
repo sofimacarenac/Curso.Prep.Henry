@@ -1,0 +1,10 @@
+for: Crea un bucle, un ciclo que se repite hasta encontrar lo que se está buscando. 
+
+&& = Es un operador lógico, significa "AND", quiere decir que se deben cumplir las dos condiciones para
+    que devuelva TRUE. Si una sola de las condiciones no se cumple, devolverá FALSE. 
+
+|| = Es un operador lógico, significa "OR", quiere decir que si cualquiera de las dos condiciones o ambas 
+     se cumplen devolverá TRUE. Devolverá FALSE si ambas condiciones son falsas.
+
+! = Otro operador lógico, indica "NOT", devolverá el valor booleano (true or false) opuesto
+    al que se le entrega. 
